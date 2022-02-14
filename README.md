@@ -8,10 +8,12 @@ Links Úteis:
 
 Responsividade:
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design
+<br/>
 https://www.w3schools.com/css/css_rwd_intro.asp
 
 Flexbox:
 https://www.w3schools.com/css/css3_flexbox.asp
+<br/>
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 </p>
 
@@ -36,5 +38,5 @@ Já aqui, temos a section com a classe "cta" e suas filhas aonde, à esquerda, t
 <h1>Parte 4</h1>
 
 <p>
-Por último, no rodapé da página com a tag "footer" vemos, à direita a logo do curso, e à esquerda a questão dos direitos e termos de uso do curso.
+Por último, no rodapé da página com a tag "footer" vemos, à direita a logo do curso, e à esquerda a questão dos direitos e termos de uso.
 </p>
