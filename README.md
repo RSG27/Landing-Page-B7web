@@ -7,11 +7,13 @@ foram utilizados HTML5 e CSS3 para construirmos uma landing page usando os conce
 Links Úteis: 
 
 Responsividade:
+<br/>
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design
 <br/>
 https://www.w3schools.com/css/css_rwd_intro.asp
 
 Flexbox:
+<br/>
 https://www.w3schools.com/css/css3_flexbox.asp
 <br/>
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
