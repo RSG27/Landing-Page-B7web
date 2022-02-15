@@ -4,7 +4,7 @@
 Projeto feito em live, com o professor Bonieky do curso B7Web. Para isso,
 foram utilizados HTML5 e CSS3 para construirmos uma landing page usando os conceitos modernos de Flexbox e Responsividade.
 
-Links Úteis: 
+Links Úteis:
 
 Responsividade:
 <br/>
@@ -28,7 +28,7 @@ Nesta parte do projeto, foram colocadas uma section principal denominada "main" 
 <h1>Parte 2</h1>
 
 <p>
-A seguir, temos a section com a classe "info" e suas filhas que trazem algumas informações relevantes a respeito do curso, como AULAS GRÁTIS, VÁRIOS PROJETOS etc. Logo abaixo, temos a section "intructions" e filhos, na qual, temos mais informações sobre o funcionamento do curso a respeito de horário, nível das aulas e gravação, por exemplo. Cabe Salientar ainda, que os círculos usados para alinhar-se aos textos foram editados via CSS3, usando-se das propriedades "border-radius", "margin","margin-left", "height" e "background-color".
+A seguir, temos a section com a classe "info" e suas filhas que trazem algumas informações relevantes a respeito do curso, como AULAS GRÁTIS, VÁRIOS PROJETOS etc. Logo abaixo, temos a section "intructions" e filhas, na qual, temos mais informações sobre o funcionamento do curso a respeito de horário, nível das aulas e gravação, por exemplo. Cabe Salientar ainda, que os círculos usados para alinhar-se aos textos foram editados via CSS3, usando-se das propriedades "border-radius", "margin","margin-left", "height" e "background-color".
 </p>
 
 <h1>Parte 3</h1>
