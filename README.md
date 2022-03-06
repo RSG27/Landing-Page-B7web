@@ -21,12 +21,12 @@ https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_C
 
 # Clonar respositório:
 
-https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
-
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 
 # Responsividade
 
 <img src="responsividade.gif" alt="Responsividade">
+<br>
 
 # Explicação do Projeto
 
