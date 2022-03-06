@@ -1,4 +1,4 @@
-# B7 DAILY 01 - LANDING PAGE
+# B7 Daily 01 - Landing Page
 
 <p>
 Projeto feito em live, com o professor Bonieky do curso B7Web. Para isso,
