@@ -19,6 +19,10 @@ https://www.w3schools.com/css/css3_flexbox.asp
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 </p>
 
+<h2>Responsividade</h2>
+
+<img src="responsividade.gif" alt="Responsividade">
+
 <h2>Parte 1</h2>
 
 <p>
