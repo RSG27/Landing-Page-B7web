@@ -42,3 +42,7 @@ Já aqui, temos a section com a classe "cta" e suas filhas aonde, à esquerda, t
 <p>
 Por último, no rodapé da página com a tag "footer" vemos, à direita a logo do curso, e à esquerda a questão dos direitos e termos de uso.
 </p>
+
+<h2>Responsividade</h2>
+
+<img src="responsividade.gif" alt="Responsividade">
