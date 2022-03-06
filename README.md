@@ -20,7 +20,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_C
 
 Clonar respositório
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+'gh repo clone repository'
 
 Ficou em Dúvida, siga estes passos:
 
