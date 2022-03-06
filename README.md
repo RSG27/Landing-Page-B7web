@@ -17,6 +17,14 @@ Flexbox:
 https://www.w3schools.com/css/css3_flexbox.asp
 <br/>
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+Clonar respositório
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+Ficou em Dúvida, siga estes passos:
+
+https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
 </p>
 
 # Responsividade
