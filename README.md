@@ -19,11 +19,11 @@ https://www.w3schools.com/css/css3_flexbox.asp
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 </p>
 
-# Clonar respositório:
+# Quer clonar o respositório?
 
 https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 
-# Responsividade
+# Aplicação da Responsividade
 
 <img src="responsividade.gif" alt="Responsividade">
 <br>
