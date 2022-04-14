@@ -33,13 +33,13 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 # Parte 1
 
 <p>
-Nesta parte do projeto, foram colocadas uma section principal denominada "main" que englobam o background da página, do lado esquerdo, a logo do curso no header do nosso site, uma div com a classe "HeroArea" aonde estão os textos de apresentação do curso, o formulário com o uso do método "POST" para o aluno informar seu email e enviá-lo ao suporte e uma div com a classe "techs" aonde estão dispostas as imagens das principais tecnologias ofertadas. Do lado direito, temos a "Hero Image" que apresenta a imagem do Professor Bonieky Lacerda.
+Nesta parte do projeto, foram colocadas uma section principal denominada "main" que englobam o background da página do lado esquerdo, a logo do curso no header do site, uma div com a classe "HeroArea" aonde estão os textos de apresentação do curso, o formulário com o uso do método "POST" para o aluno informar seu email e enviá-lo ao suporte e uma div com a classe "techs" aonde estão dispostas as imagens das principais tecnologias ofertadas. Do lado direito, temos a "Hero Image" que apresenta a imagem do Professor Bonieky Lacerda.
 </p>
 
 # Parte 2
 
 <p>
-A seguir, temos a section com a classe "info" e suas filhas que trazem algumas informações relevantes a respeito do curso, como AULAS GRÁTIS, VÁRIOS PROJETOS etc. Logo abaixo, temos a section "intructions" e filhas, na qual, temos mais informações sobre o funcionamento do curso a respeito de horário, nível das aulas e gravação, por exemplo. Cabe Salientar ainda, que os círculos usados para alinhar-se aos textos foram editados via CSS3, usando-se das propriedades "border-radius", "margin","margin-left", "height" e "background-color".
+A seguir, temos a section com a classe "info" e suas filhas que trazem algumas informações relevantes a respeito do curso, como AULAS GRÁTIS, VÁRIOS PROJETOS etc. Logo abaixo, temos a section "intructions" e filhas, na qual, mais informações sobre o funcionamento do curso a respeito de horário, nível das aulas e gravação são apresentadas, por exemplo. Cabe Salientar ainda, que os círculos usados para alinhar-se aos textos foram editados via CSS3, usando-se das propriedades "border-radius", "margin","margin-left", "height" e "background-color".
 </p>
 
 # Parte 3
